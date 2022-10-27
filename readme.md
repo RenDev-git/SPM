@@ -1,5 +1,5 @@
 
-# Switch profile Maker (SMP)
+# Switch profile Maker (SPM)
 
 A Switch profile icon generator with customization and a clean UI
 

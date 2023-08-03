@@ -10,4 +10,4 @@ The website can be found here
 https://switchprofile.netlify.app
 ## photos
 
-![Logo](https://i.imgur.com/WHdBFBn.png)
+![Logo](https://i.imgur.com/s0bXIyX.png)
